@@ -391,6 +391,7 @@ $serialNumber = 1;
                             <td><?php echo $row['taluka']; ?></td>
                             <td><?php echo $row['city']; ?></td>
                             <td><?php echo $row['pin_code']; ?></td>
+                            <td><?php echo $row['pin_code']; ?></td>
                            
                             <td><?php echo $row['order_count']; ?></td>
                           <td>
